@@ -1,7 +1,7 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-## Name : DINESH KUMAR M
+## Name : SARAN S S
 ## Date : 22-04-2024
-## Register Number : 212221220011
+## Register Number : 212221220048
 ## Department : INFORMATION TECHONOLOGY
 ### Aim :
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same
