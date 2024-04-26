@@ -1,13 +1,17 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
+## Name : DINESH KUMAR M
+## Date : 22-04-2024
+## Register Number : 212221220011
+## Department : INFORMATION TECHONOLOGY
 ### Aim :
-      To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
+To understand linear and joint interpolation of industrial manipulator and develop a program for the same
+
       
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform 
+Instrial manipulator , teach pendant and associated program platform 
       
 ### Theory 
-    The following interpolation schemes are available in most of the robot controllers.
+The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
 2. Straight line interpolation
 3. Circular interpolation
@@ -36,17 +40,8 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
+![7r1](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/a950e516-46b4-43e4-8e39-679568b39608)
+![7r2](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/1faf0da8-b4fb-4006-bce9-e293ad86b835)
 
 
 
@@ -57,9 +52,12 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
+![7r3](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/788b197a-fa30-44fd-bff3-bf8e646c0e2a)
+
+![7r4](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/8a339023-c1de-46db-aed1-008aa84a208b)
 
 
-
+![7r5](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/ee7e6834-2639-40ff-9127-5a4a23d19605)
 
 
 
@@ -71,3 +69,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+ A program is developed for understanding linear and joint interpolation of industrial manipulator and is ran sucessfully.
